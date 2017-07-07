@@ -1,0 +1,6 @@
+<item>
+<title>Travel Channel</title>
+<link>http://xtream.swiftiptv.com:6500/live/dev814/swcPstXD/7002.ts</link>
+<thumbnail>http://i.imgur.com/NvnTwnr.jpg</thumbnail>
+<fanart>http://i.imgur.com/0iIhKsZ.jpg</fanart>
+</item>
