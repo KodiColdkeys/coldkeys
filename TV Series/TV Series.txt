@@ -1,0 +1,6 @@
+<item>
+<title>Westworld S01E01</title>
+<link>http://xtream.swiftiptv.com:6500/movie/dev814/swcPstXD/16872.mp4</link>
+<thumbnail>http://i.imgur.com/YFcS9SC.jpg</thumbnail>
+<fanart>http://i.imgur.com/whX0HlS.jpg</fanart>
+</item>
