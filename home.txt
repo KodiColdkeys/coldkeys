@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>http://i.imgur.com/Q5SW94E.jpg</thumbnail>
+<externallink>http://bit.ly/2tx2wlN</externallink>
+<fanart>http://i.imgur.com/FHsGuHK.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>TV Series</name>
+<thumbnail>http://i.imgur.com/nxVdYnY.jpg</thumbnail>
+<externallink>http://bit.ly/2txtXvC</externallink>
+<fanart>http://i.imgur.com/nxVdYnY.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>http://i.imgur.com/XcSkBwT.jpg</thumbnail>
+<externallink>http://bit.ly/2tx5CX6</externallink>
+<fanart>http://i.imgur.com/XXwwsZH.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>
