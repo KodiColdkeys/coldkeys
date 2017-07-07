@@ -1,0 +1,6 @@
+<item>
+<title>Deadpool (2016)</title>
+<link>http://xtream.swiftiptv.com:6500/movie/dev814/swcPstXD/11900.mkv</link>
+<thumbnail>http://i.imgur.com/u0Yuh4t.jpg</thumbnail>
+<fanart>http://i.imgur.com/Powi88W.jpg</fanart>
+</item>
